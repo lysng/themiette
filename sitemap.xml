@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://lysng.github.io/themiette/about/</loc>
     <lastmod>2022-06-12T21:20:59+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/build_update/</loc>
+    <loc>https://lysng.github.io/themiette/tags/build_update/</loc>
     <lastmod>2022-06-12T17:41:24+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/hi-im-miette/</loc>
+    <loc>https://lysng.github.io/themiette/posts/hi-im-miette/</loc>
     <lastmod>2022-06-12T17:41:24+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://lysng.github.io/themiette/posts/</loc>
     <lastmod>2022-06-12T17:41:24+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://lysng.github.io/themiette/tags/</loc>
     <lastmod>2022-06-12T17:41:24+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://lysng.github.io/themiette/</loc>
     <lastmod>2022-06-12T17:41:24+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/tiny_house/</loc>
+    <loc>https://lysng.github.io/themiette/tags/tiny_house/</loc>
     <lastmod>2022-06-12T17:41:24+10:00</lastmod>
   </url><url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://lysng.github.io/themiette/authors/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://lysng.github.io/themiette/categories/</loc>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://lysng.github.io/themiette/series/</loc>
   </url>
 </urlset>

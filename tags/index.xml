@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on The Miette</title>
-    <link>http://example.org/tags/</link>
+    <link>https://lysng.github.io/themiette/tags/</link>
     <description>Recent content in Tags on The Miette</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Jun 2022 17:41:24 +1000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 17:41:24 +1000</lastBuildDate><atom:link href="https://lysng.github.io/themiette/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>build_update</title>
-      <link>http://example.org/tags/build_update/</link>
+      <link>https://lysng.github.io/themiette/tags/build_update/</link>
       <pubDate>Sun, 12 Jun 2022 17:41:24 +1000</pubDate>
       
-      <guid>http://example.org/tags/build_update/</guid>
+      <guid>https://lysng.github.io/themiette/tags/build_update/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tiny_house</title>
-      <link>http://example.org/tags/tiny_house/</link>
+      <link>https://lysng.github.io/themiette/tags/tiny_house/</link>
       <pubDate>Sun, 12 Jun 2022 17:41:24 +1000</pubDate>
       
-      <guid>http://example.org/tags/tiny_house/</guid>
+      <guid>https://lysng.github.io/themiette/tags/tiny_house/</guid>
       <description></description>
     </item>
     
