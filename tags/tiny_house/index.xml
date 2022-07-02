@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tiny_house on The Miette</title>
+    <link>http://example.org/tags/tiny_house/</link>
+    <description>Recent content in tiny_house on The Miette</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 12 Jun 2022 17:41:24 +1000</lastBuildDate><atom:link href="http://example.org/tags/tiny_house/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi I&#39;m Miette</title>
+      <link>http://example.org/posts/hi-im-miette/</link>
+      <pubDate>Sun, 12 Jun 2022 17:41:24 +1000</pubDate>
+      
+      <guid>http://example.org/posts/hi-im-miette/</guid>
+      <description>Hello World 👋 My name is Lys and my partner Erny and I are building a tiny home made out of seconds, reclaimed and recycled materials. This is a small space on the interwebs to to document our progress and share our photos for anyone who would like to follow our journey! 😄
+Why build a tiny house? Erny and I have always been interested in living more sustainably and living small.</description>
+    </item>
+    
+  </channel>
+</rss>
