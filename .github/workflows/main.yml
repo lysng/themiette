@@ -1,8 +1,13 @@
-name: CI
-on: push
+name: Deploy to Github Pages
+on:
+  schedule:
+  # Deploy blog everyday at 16:00 UTC (midnight+2 AEST)
+  - cron: "0 16 * * *"
+  push:
+    branches: [master]
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     steps:
       - name: Git checkout
         uses: actions/checkout@v2
@@ -11,6 +16,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: latest
+          extended: true
 
       - name: Build
         # remove --minify tag if you do not need it
