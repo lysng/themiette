@@ -1,0 +1,13 @@
+{{ partial "header" . }}
+
+<article lang='{{ .Params.lang | default .Lang }}' class='entry'>
+  {{ partial "entry/header" . }}
+
+  {{ partial "entry/content" . }}
+
+  {{ partial "entry/footer" . }}
+</article>
+
+{{ partial "footer" . }}
+
+// to mutate to include sticky scroll
