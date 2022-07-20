@@ -2,7 +2,6 @@
 title: "Resources"
 date: 2022-06-12T21:20:59+10:00
 draft: false
-layout: staticpage
 ---
 
 **A collection of Australian and international resources to help you on your build journey**
