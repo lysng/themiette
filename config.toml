@@ -93,7 +93,6 @@ repository = "themiette"
 
 disqusShortname = ""
 
-
 [[menu.main]]
 name = "About"
 weight = -10
