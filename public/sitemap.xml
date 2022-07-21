@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lysng.github.io/themiette/</loc>
+    <lastmod>2022-07-20T19:26:12+10:00</lastmod>
+  </url><url>
     <loc>https://lysng.github.io/themiette/posts/a-quick-trip-to-canberra/</loc>
     <lastmod>2022-07-20T19:26:12+10:00</lastmod>
   </url><url>
@@ -12,9 +15,6 @@
     <lastmod>2022-07-20T19:26:12+10:00</lastmod>
   </url><url>
     <loc>https://lysng.github.io/themiette/tags/</loc>
-    <lastmod>2022-07-20T19:26:12+10:00</lastmod>
-  </url><url>
-    <loc>https://lysng.github.io/themiette/</loc>
     <lastmod>2022-07-20T19:26:12+10:00</lastmod>
   </url><url>
     <loc>https://lysng.github.io/themiette/tags/windows/</loc>
@@ -47,6 +47,8 @@
     <loc>https://lysng.github.io/themiette/authors/</loc>
   </url><url>
     <loc>https://lysng.github.io/themiette/categories/</loc>
+  </url><url>
+    <loc>https://lysng.github.io/themiette/search/</loc>
   </url><url>
     <loc>https://lysng.github.io/themiette/series/</loc>
   </url>

@@ -1,5 +1,5 @@
 ---
-title: "June 2022 Build Update"
+title: "July 2022 Build Update"
 date: 2022-07-02T23:15:04+10:00
 draft: true
 tags: ['build_update', 'tiny_house', 'rain']

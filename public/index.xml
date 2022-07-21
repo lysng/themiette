@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Miette</title>
+    <title>Home on The Miette</title>
     <link>https://lysng.github.io/themiette/</link>
-    <description>Recent content on The Miette</description>
+    <description>Recent content in Home on The Miette</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 20 Jul 2022 19:26:12 +1000</lastBuildDate><atom:link href="https://lysng.github.io/themiette/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -58,6 +58,15 @@ Reclaimed Material Resellers Memates Recycled Warehouse: New to us specialising 
       <guid>https://lysng.github.io/themiette/posts/hi-im-miette/</guid>
       <description>Hello World 👋 My name is Lys and my partner Erny and I are building a tiny home made out of seconds, reclaimed and recycled materials. This is a small space on the interwebs to to document our progress and share our photos for anyone who would like to follow our journey! 😄
 Table Of ContentsWhy build a tiny house? Do you have any constraints? What does miette mean? So how&amp;rsquo;s it going?</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://lysng.github.io/themiette/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lysng.github.io/themiette/search/</guid>
+      <description></description>
     </item>
     
   </channel>
