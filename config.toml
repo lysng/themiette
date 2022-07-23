@@ -64,7 +64,7 @@ instagram = "heyelysee"
 [params.search]
 client = "fuse" # algolia / fuse / lunr
 
-[outputs]
+[params.search.outputs]
   home = ["HTML", "JSON", "RSS"]
 
 [taxonomies]
@@ -79,15 +79,10 @@ page = "/:slug/"
 [params.comments]
 enable = true
 
-[params.comments.utterances]
+[params.comments.staticman]
 enable = true
-issueTerm = "pathname" # pathname / url / title / og:title / <string>
-label = ""
-theme = "github-light"
-crossorigin="anonymous"
-
-
-[params.comments.utterances.github]
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
 username = "lysng"
 repository = "themiette"
 
