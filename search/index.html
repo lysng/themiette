@@ -2,21 +2,27 @@
 <html lang='en' dir='auto'><head>
   <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<meta name='description' content=''>
+<meta name='description' content='This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&ldquo;HTML&rdquo;, &ldquo;JSON&rdquo;] ```'>
 <meta name='theme-color' content='#ffcd00'>
 
-<meta property='og:title' content='Search • The Miette'>
-<meta property='og:description' content=''>
+<meta property='og:title' content='Search Results • The Miette'>
+<meta property='og:description' content='This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml ``` [outputs] home = [&ldquo;HTML&rdquo;, &ldquo;JSON&rdquo;] ```'>
 <meta property='og:url' content='https://lysng.github.io/themiette/search/'>
 <meta property='og:site_name' content='The Miette'>
 <meta property='og:type' content='article'><meta property='article:section' content=''><meta name='twitter:card' content='summary'>
 
 <meta name="generator" content="Hugo 0.100.2" />
 
-  <title>Search • The Miette</title>
+  <title>Search Results • The Miette</title>
   <link rel='canonical' href='https://lysng.github.io/themiette/search/'>
-  
-    <link href="https://lysng.github.io/themiette/search/index.xml" rel="alternate" type="application/rss+xml" title="The Miette" />
   
   
   <link rel='icon' href='/themiette/favicon.ico'>
@@ -137,7 +143,7 @@
 <header class='header'>
   <div class='container sep-after'>
     <div class='header-info'>
-      <h1 class='title'>Search</h1>
+      <h1 class='title'>Search Results</h1>
 
       
 
@@ -146,6 +152,46 @@
 </header>
 
 
+
+<div class='entry'>
+  <div class='container entry-content'>
+  <p>This file exists solely to respond to /search URL with the related <code>search</code> layout template.</p>
+<p>No content shown here is rendered, all content is based in the template layouts/page/search.html</p>
+<p>Setting a very low sitemap priority will tell search engines this is not important content.</p>
+<p>This implementation uses Fusejs, jquery and mark.js</p>
+<h2 id="initial-setup">Initial setup</h2>
+<p>Search  depends on additional output content type of JSON in config.toml
+```
+[outputs]
+home = [&ldquo;HTML&rdquo;, &ldquo;JSON&rdquo;]
+```</p>
+<h2 id="searching-additional-fileds">Searching additional fileds</h2>
+<p>To search additional fields defined in front matter, you must add it in 2 places.</p>
+<h3 id="edit-layouts_defaultindexjson">Edit layouts/_default/index.JSON</h3>
+<p>This exposes the values in /index.json
+i.e. add <code>category</code>
+```
+&hellip;
+&ldquo;contents&rdquo;:{{ .Content | plainify | jsonify }}
+{{ if .Params.tags }},
+&ldquo;tags&rdquo;:{{ .Params.tags | jsonify }}{{end}},
+&ldquo;categories&rdquo; : {{ .Params.categories | jsonify }},
+&hellip;
+```</p>
+<h3 id="edit-fusejs-options-to-search">Edit fuse.js options to Search</h3>
+<p><code>static/js/search.js</code>
+```
+keys: [
+&ldquo;title&rdquo;,
+&ldquo;contents&rdquo;,
+&ldquo;tags&rdquo;,
+&ldquo;categories&rdquo;
+]
+```</p>
+
+</div>
+
+</div>
 
 
 <div class='container'>
