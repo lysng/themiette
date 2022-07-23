@@ -54,7 +54,7 @@ enable = true
 
 [params.widgets]
 homepage = ["recent_posts"]
-sidebar = ["about","search","taxonomy_cloud"]
+sidebar = ["about","taxonomy_cloud"]
 footer = ["social_menu"]
 
 [params.social]
@@ -63,9 +63,6 @@ instagram = "heyelysee"
 
 [params.search]
 client = "fuse" # algolia / fuse / lunr
-
-[params.search.outputs]
-  home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
 author = "authors"
