@@ -49,6 +49,7 @@
     <loc>https://lysng.github.io/themiette/categories/</loc>
   </url><url>
     <loc>https://lysng.github.io/themiette/search/</loc>
+    <priority>0.1</priority>
   </url><url>
     <loc>https://lysng.github.io/themiette/series/</loc>
   </url>
