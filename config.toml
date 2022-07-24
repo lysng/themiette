@@ -79,10 +79,15 @@ page = "/:slug/"
 [params.comments]
 enable = true
 
-[params.comments.staticman]
+[params.comments.utterances]
 enable = true
-apiEndpoint = "https://themiettecommentbot.herokuapp.com/v2/entry"
-maxDepth = 2
+issueTerm = "pathname" # pathname / url / title / og:title / <string>
+label = ""
+theme = "github-light"
+crossorigin="anonymous"
+
+
+[params.comments.utterances.github]
 username = "lysng"
 repository = "themiette"
 
