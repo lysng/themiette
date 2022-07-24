@@ -81,7 +81,7 @@ enable = true
 
 [params.comments.staticman]
 enable = true
-apiEndpoint = "https://api.staticman.net/v2/entry"
+apiEndpoint = "https://themiettecommentbot.herokuapp.com/v2/entry"
 maxDepth = 2
 username = "lysng"
 repository = "themiette"
