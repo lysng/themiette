@@ -3,6 +3,8 @@ title: "A Quick Trip to Canberra"
 date: 2022-07-20T19:26:12+10:00
 draft: false
 tags: ['canberra', 'windows']
+comments: true
+
 ---
 
 ### A quick trip to Canberra 

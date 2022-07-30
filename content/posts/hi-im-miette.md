@@ -3,6 +3,8 @@ title: "Hi I'm Miette"
 tags: ['tiny_house' ]
 date: 2022-06-12T17:41:24+10:00
 draft: false
+comments: true
+
 ---
 
 ### Hello World :wave:
