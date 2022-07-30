@@ -3,6 +3,7 @@ title: "June 2022 Build Update"
 date: 2022-07-02T23:15:04+10:00
 draft: false
 tags: ['build_update', 'tiny_house', 'blackbutt', 'douglas_fir']
+comments: true
 ---
 
 ### A June build update
