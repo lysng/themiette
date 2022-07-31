@@ -106,6 +106,12 @@ weight = -10
 identifier = "Resources"
 url = "/resources/"
 
+[[menu.main]]
+name = "Subscribe"
+weight = -10
+identifier = "Subscribe"
+url = "https://tinyletter.com/themiette"
+
 [blackfriday]
 hrefTargetBlank = true
 

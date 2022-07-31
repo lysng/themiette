@@ -3,6 +3,8 @@ title: "July 2022 Build Update"
 date: 2022-07-02T23:15:04+10:00
 draft: true
 tags: ['build_update', 'tiny_house', 'rain']
+comments: true
+
 ---
 
 ### A July build update
@@ -18,7 +20,7 @@ Erny jetted off to the US for a few weeks to play ultimate frisbee! Left to her 
 🌧️
 
 #### What's next?
-Fingers crossed this rain goes away so we can prep our walls for assembly in August! We took a week off in September to pull up the walls, roof and walls so no pressure!
+Fingers crossed this rain goes away so we can prep our walls for assembly in August! We're going to take a week off in September to pull up the walls, roof and walls so no pressure!
 
 Catch ya later,
 Lys & Erny
