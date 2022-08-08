@@ -14,7 +14,7 @@ What have we done? Absolutely nothing. Lys honestly thinks it's been the wettest
 {{< toc >}}
 
 #### What we've done
-Erny jetted off to the US for a few weeks to play ultimate frisbee! Left to her own devices Lys did a few sundry things like source suppliers for our metal connectors. We've also added a few new features to the site - like comments and you can now subscribe if you feel so inclined. Is Lys using project to learn some coding skills on the side? Maybe...👀
+Erny jetted off to the US for a few weeks to play ultimate frisbee! Left to her own devices Lys did a few sundry things like source suppliers for our metal connectors. We've also added a few new features to the site - now you can add comments and now subscribe if you feel so inclined. Is Lys using this project to learn some coding skills on the side? Maybe...👀
 
 We've also got a new [Resources Page](https://lysng.github.io/themiette/resources/) up so hopefully if there's anyone else out there who's crazy enough to build their own shed/tiny house/trailer/van thing they'll have an easier time of it than we did :smile:   
 
