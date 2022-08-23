@@ -16,14 +16,13 @@ As Lys sits down to write this she can officially say that we have sourced all o
 #### The Design
 We chose to have a gable roof for our tiny house at a slight off centered angle. Technically this is known as a saltbox pitch style but we have not found that term used commonly in Australia. We wanted to keep the `traditional house` style compared to some of the more modern tiny house options. The style is also quite useful for maximising solar panels on a small space and this will be helpful if we decide to go off-grid. It is also simple to construct as there are minimal valleys and no curves which makes it great for novice builders also known as **cough** us.
 
-{{< figure src="/themiette/images/20220822-02.png" caption="Our roof design" class="centerImage">}}
 {{< figure src="/themiette/images/20220822-03.png" caption="Our roof design" class="centerImage">}}
 
 We are going to have a roof pitch of 20 degrees (which is standard for most houses and easier to find second hand materials for) even though we could have as little as a 5 degree roof pitch for a gable roof. Most tiny houses choose a shed style or flat roof which is technically more space economical as one can get more internal head height but we really liked the more traditional aesthetic. There is just something so comfortable and cosy about a gable roof.
 
 {{< figure src="/themiette/images/20220822-01.png" caption="Gable, Saltbox, Flat and Shed roof styles are all common tiny house options" class="centerImage">}}
 
-#### Colorbond
+#### The Material
 Metal was our go to choice for a roof - it's light, relatively affordable and easy to come by on the second hand market. Often larger jobs will order 10% extra as leeway and sell the remainder. We actually found our Colorbond from a lovely family fixing a shed, a elderly couple redoing a carport and a renovation on the Central Coast. 
 
 On our way up from the Central Coast we had this brilliant idea to cut the Colorbond panelling with tin snips to fit the sheets into the van. It turns out that it is incredibly difficult to cut corrugated iron with tin snips (think of these like scissors for metal) over long distances and most people just use a circular saw. Luckily we had a rope that Erny was given from another pick up and we bundled 6m pieces of Colorbond into the back of the van and tied the boot closed for a 1.5hr drive home. Note to self - always bring a circular saw!
@@ -50,7 +49,7 @@ We found the gutters in the Haberfield of all places. A heritage listed house ha
 {{< figure src="/themiette/images/20220822-gif-01.gif" caption="Taking off gutters" class="centerImage">}}
 
 #### Sundry Items
-It was most difficult trying to find flashing, ridge caps and rivets second hand. We ended up purchasing on the first-hand market (and rust is a thing so we thought this would be the best approach). This posed another problem as most suppliers are not interested in servicing such a small job or they are a full service fit out (i.e. they provide the product and the installation service). Other's wouldn't match the existing gutters that we had or were not based in our state - shipping costs are a killer! Additionally, with rising construction costs website prices were inflated from 5% - 20% on the personalized quote.
+It was most difficult trying to find flashing, ridge caps and rivets second hand. We ended up purchasing on the first-hand market (and rust is a thing so we thought this would be the best approach). This posed another problem as most suppliers are not interested in servicing such a small job or they are a full service fit out (i.e. they provide the product and the installation service). Other vendors wouldn't match the existing gutters that we had or were not based in our state - shipping costs are a killer! Additionally, with rising construction costs website prices were inflated from 5% - 20% on the personalized quote.
 
 Luckily we found Jack from [Roofit Online](https://roofit.online/) which had an online store (because as we know Millennials avoid talking on the phone like the plague) and 24/7 customer service. They specialise in Colorbond and locally manufacture. What they can't make they source though their team based in NSW as well.They also take all types of jobs no matter how small which is great when building a tiny house. Jack was super patient and chucked a 5% discount - thanks Jack! We only have good things to say. 
 
