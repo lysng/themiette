@@ -14,7 +14,7 @@ As Lys sits down to write this she can officially say that we have sourced all o
 {{< toc >}}
 
 #### The Design
-We chose to have a gable roof for our tiny house at a slight off centered angle. Technically this is known as a saltbox pitch style but we have not found that term used commonly in Australia. We wanted to keep the `traditional house` style compared to some of the more modern tiny house options. The style is also quite useful for maximising solar panels on a small space and this will be helpful if we decide to go off-grid. It is also simple to construct as there are minimal valleys and no curves which makes it great for novice builders also known as **cough** us.
+We chose to have a slightly off centred gable roof for our tiny house. Technically this is known as a saltbox pitch style but we have not found that term used commonly in Australia. We wanted to keep the `traditional house` style compared to some of the more modern tiny house options. The style is also quite useful for maximising solar panels on a small space and this will be helpful if we decide to go off-grid. It is also simple to construct as there are minimal valleys or curves which makes it great for novice builders also known as **cough** us.
 
 {{< figure src="/themiette/images/20220822-03.png" caption="Our roof design" class="centerImage">}}
 
@@ -25,7 +25,7 @@ We are going to have a roof pitch of 20 degrees (which is standard for most hous
 #### The Material
 Metal was our go to choice for a roof - it's light, relatively affordable and easy to come by on the second hand market. Often larger jobs will order 10% extra as leeway and sell the remainder. We actually found our Colorbond from a lovely family fixing a shed, a elderly couple redoing a carport and a renovation on the Central Coast. 
 
-On our way up from the Central Coast we had this brilliant idea to cut the Colorbond panelling with tin snips to fit the sheets into the van. It turns out that it is incredibly difficult to cut corrugated iron with tin snips (think of these like scissors for metal) over long distances and most people just use a circular saw. Luckily we had a rope that Erny was given from another pick up and we bundled 6m pieces of Colorbond into the back of the van and tied the boot closed for a 1.5hr drive home. Note to self - always bring a circular saw!
+On our way up from the Central Coast we had this brilliant idea to cut the Colorbond panelling with tin snips to fit the sheets into the van. It turns out that it is incredibly difficult to cut corrugated iron with tin snips (think of these like scissors for metal) over long distances and most people just use a circular saw or angle grinder. Luckily we had a rope that Erny was given from another pick up and we bundled 6m pieces of Colorbond into the back of the van and tied the boot closed for a 1.5hr drive home. Note to self - always bring a circular saw!
 
 **But what about the colour?** 
 
