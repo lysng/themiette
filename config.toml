@@ -125,6 +125,9 @@ weight = 1
 [[params.customCSS]]
 href = "pathToFileUnderStatic"
 
+[[params.darkCSS]]
+href = "pathToFileUnderStatic"
+
 [markup]
   [markup.tableOfContents]
     startLevel = 4

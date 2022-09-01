@@ -6,6 +6,12 @@ draft: false
 
 **A collection of Australian and international resources to help you on your build journey**
 
+### Inspiration
+#### Australia
+
+#### International
+- [Shedsistence](https://shedsistence.com/): Very detailed blog and video on their tiny house build.
+
 ### Reclaimed Material Resellers
 - [Memates Recycled Warehouse](https://mematesrecycledwarehouse.com.au/): New to us specialising in reclaimed materials based in Sydney, NSW.
 - [Recycled Building Centre](https://www.recycledbuildingcentre.com.au/): Has a great selection of windows and doors based in Sydney, NSW.
