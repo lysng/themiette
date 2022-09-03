@@ -53,7 +53,7 @@ It was most difficult trying to find flashing, ridge caps and rivets second hand
 
 Luckily we found Jack from [Roofit Online](https://roofit.online/) which had an online store (because as we know Millennials avoid talking on the phone like the plague) and 24/7 customer service. They specialise in Colorbond and locally manufacture. What they can't make they source though their team based in NSW as well.They also take all types of jobs no matter how small which is great when building a tiny house. Jack was super patient and chucked a 5% discount - thanks Jack! We only have good things to say. 
 
-{{< figure src="/themiette/images/20220822-05.png" caption="Our stash from Roofit Online" class="centerImage">}}
+{{< figure src="/themiette/images/20220822-05.jpg" caption="Our stash from Roofit Online" class="centerImage">}}
 
 
 
