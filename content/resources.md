@@ -18,7 +18,8 @@ draft: false
 - [Handymans Trading Post](https://www.recycledbuildingcentre.com.au/): The best stock of doors, double glazed window panes and other building finds based in Canberra, ACT.
 
 ### Roofing and Water Management 
-- [Roofit Online](https://roofit.online/): We bought our roofing products (bar the steel sheets) here. Based in NSW.
 - [Metal Roofing Online](https://www.metalroofingonline.com.au/): Offers a variety of products. They also have an amazing [YouTube Channel](https://www.youtube.com/c/MetalRoofingOnline) Based in VIC.
+- [Number 1 Roofing Supplies](https://www.no1roofing.com.au/narrabeen-nsw-no1-roofing-and-building-supplies/): We bought our Velux flashing kits from here but they actually do a whole bunch of hardware stuff too.
+- [Roofit Online](https://roofit.online/): We bought our roofing products (bar the steel sheets) here. Based in NSW.
 
 *more coming soon!*

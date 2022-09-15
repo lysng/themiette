@@ -23,6 +23,9 @@ Hello Spring! Working almost every weekend, these last two months we've actually
 #### What's next?
 Australia's Bureau of Meteorology (BOM) has officially confirmed that we are heading into yet another, our 3rd La Niña coming into 2023 so honestly not feeling very hopeful. But slow progress is still progress so that is something.
 
+{{< figure src="/themiette/images/20220913.jpg" caption="I am not crying about the rain are crying about the rain" class="centerImage">}}
+
+
 Catch ya later,
 Lys & Erny
 
