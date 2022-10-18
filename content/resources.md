@@ -25,4 +25,8 @@ draft: false
 - [Number 1 Roofing Supplies](https://www.no1roofing.com.au/narrabeen-nsw-no1-roofing-and-building-supplies/): We bought our Velux flashing kits from here but they actually do a whole bunch of hardware stuff too.
 - [Roofit Online](https://roofit.online/): We bought our roofing products (bar the steel sheets) here. Based in NSW.
 
+### Windows
+- [Osmo UV Protection Oil](https://www.osmoaustralia.com.au/): Top of the line finishing oil for exterior and interior uses. We are using this on our windows.
+
+
 *more coming soon!*

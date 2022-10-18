@@ -1,7 +1,7 @@
 ---
 title: "September 2022 Build Update"
-date: 2022-10-02T09:15:04+10:00
-draft: true
+date: 2022-10-17T09:15:04+10:00
+draft: false
 tags: ['build_update', 'tiny_house', 'windows', 'cladding', 'cedar']
 comments: true
 ---
