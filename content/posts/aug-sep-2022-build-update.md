@@ -1,12 +1,12 @@
 ---
-title: "September 2022 Build Update"
+title: "August September 2022 Build Update"
 date: 2022-10-17T13:54:47+11:00
 draft: false
 tags: ['build_update', 'tiny_house', 'windows', 'cladding', 'cedar']
 comments: true
 ---
 
-### A September build update
+### An August September build update
 
 Hello Spring! Working almost every weekend, these last two months we've actually got a proper build update :smile:. 
 
