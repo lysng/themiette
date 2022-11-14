@@ -1,6 +1,6 @@
 ---
 title: "Oct Build Update"
-date: 2022-10-24T11:08:26+11:00
+date: 2022-11-10T11:08:26+11:00
 draft: false
 tags: ['solar', 'build_update', 'video', 'windows']
 comments: true
