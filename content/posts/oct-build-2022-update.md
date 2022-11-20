@@ -18,8 +18,6 @@ On the shopping front we spent hours online trawling for a dealer that would sel
 
 {{< figure src="/themiette/images/20221025-02.jpg" caption="An example of an awning window" class="centerImage">}}
 
-<insert image of awning windows here>
-
 
 A friction hinge allows the `opening` part of the window to stay open or ajar for long periods of time[^2]. This is handy if you want to open the window for airflow or escape from a fire (priorities aye?). Frictionless hinges would have the `opening` portion of the window fall back into its closed position quickly. 
 
@@ -29,18 +27,14 @@ We also spend way too long deciding what sort of latches we were going to use to
 
 {{< figure src="/themiette/images/20221025-01.png" caption="If you ever wanted to know how wedge fasteners work" class="centerImage">}}
 
-<insert image of wedge fastener here>
-
 As a side note - if you ever are in the market for fixtures (think door handles, window fixings, locks or gate hooks) there seems to be only one player in the Australian market and that is TradCo (unless you go with something particularly boutique). We only say this because _all online offerings look the same_. Heck - some even call the TradCo products fancy names but use the same stock photos as the TradCo online PDF pamphlet[^3]. It's not a bad thing but it is difficult as a consumer to compare and contrast if _everything is exactly the same_.
 
 We also played around with the second-hand router that Lys found off facebook marketplace for a steal.
-
 
 #### Highlights
 Getting the solar panels was such a huge highlight. Erny says that compared to the current market these solar panels would be about 60% as efficient but a new suite of panels (+ installation) would be approximately $4000 so it seems unfair to compare. We also did not expect to get solar so soon - if at all - so it was a nice win. ☀️ Side note: made a short vid (with gentle encouragement from a friendly social media savvy human - looking at you Lydia! :smile:)
 
 {{< youtube-enhanced id="VVAOdZhYov0" title="The Miette: Operation Solar" >}}
-
 
 #### Challenges
 We snapped a few more drill bits and need to purchase an 18v drill. Currently we have a 12v and a 9v but drilling pilot holes through the blackbutt is proving difficult. We're also filling up a lot of our mistakes so another order of wood filler may be required.
