@@ -27,6 +27,7 @@ draft: false
 
 ### Windows
 - [Osmo UV Protection Oil](https://www.osmoaustralia.com.au/): Top of the line finishing oil for exterior and interior uses. We are using this on our windows.
+- - [Sikkens Cetol BLX-Pro Teak Timber Stain](https://www.crommelin.com.au/product/cetol-blx-pro/): The stain that we are using to protect and colour our windows.
 
 
 *more coming soon!*
