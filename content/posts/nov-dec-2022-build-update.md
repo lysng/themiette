@@ -22,7 +22,10 @@ Lys' brother helped out sanding down the huge picture window (big thanks!). Nove
 
 With the parts of the frame now square we had the arduous task of lining everything up to drill our pilot holes. With a contraption of too many clamps we raced against the sun to screw our window frames together which ended up with... a fail. A piece or clamp must have shifted in the process and when Erny screwed the pieces together we could tell that our window would not fit our glass. So, over the week Lys puttied up the holes with sawdust, glue and putty for another crack at it. This time we started earlier and took our time. This ended with a beautifully square(ish) window frame!
 
-With that small win we continued with the loft and kitchen windows. These also proved to be challenging as these three frames _open_. And it was here, design wise, we hit a little snag - we did not account for the hinges in our design. Our previous design did not account for hinge movement and so part of the hinges will be exposed to the elements. So back to the drawing board we went to see how we could integrate those hinges into our windows in a weather tight manner. Luckily Erny found this video, which is not only Australia but it details where and how one should install hinges on casement (and then by extension awning) windows. 
+{{< figure src="/themiette/images/20221222-06.png" caption="A successful frame" class="centerImage">}}
+
+
+With that small win we continued with the loft and kitchen windows. These also proved to be challenging as these three frames _open_. And it was here, design wise, we hit a little snag - we did not account for the hinges in our design. Our previous design did not account for hinge movement and so part of the hinges will be exposed to the elements. So back to the drawing board we went to see how we could integrate those hinges into our windows in a weather tight manner. Luckily Erny found this video, which is not only Australian but it details where and how one should install hinges on casement (and then by extension awning) windows. 
 
 {{< youtube-enhanced id="O6HGgtJ3kWk" title="How to Install a Casement Sash - by The Woodworkers Company" >}}
 
@@ -34,12 +37,14 @@ Lys also happened to purchase a second router earlier on in the year which came 
 
 {{< figure src="/themiette/images/20221222-02.jpg" caption="The 2nd hand router doing its good work" class="centerImage">}}
 
-But it would not be a build update with another hiccup. We test drove the [Osmo - UV Protection Oil](https://www.osmoaustralia.com.au/). It is lovely and pulls the colour of the blackbutt out so well. It does however make the putty quite orange, and so Lys decided we needed to stain the wood to blend the putty into the blackbutt. We settled on [Sikkens Cetol BLX-Pro Teak Timber Stain](https://www.crommelin.com.au/product/cetol-blx-pro/) which was the lightest stain that Bunnings offered. After trialing it out on our bathroom window, Lys was not convinced that it camouflaged the putty orange. Mildly distraught Lys mulled over if we should continue down the staining path. Ultimately we decided - yes - it would be a good idea to stain the wood as an undercoat.
+But it would not be a build update with another hiccup. We test drove the [Osmo - UV Protection Oil](https://www.osmoaustralia.com.au/) on some spare blackbutt. It is lovely and pulls the colour of the wood out so well. It does however make the putty quite orange, and so Lys decided we needed to stain the wood to blend the putty into the blackbutt. We settled on [Sikkens Cetol BLX-Pro Teak Timber Stain](https://www.crommelin.com.au/product/cetol-blx-pro/) which was the lightest stain that Bunnings offered. After trialing it out on our bathroom window, Lys was not convinced that it camouflaged the putty orange. Mildly distraught, Lys mulled over if we should continue down the staining path. Ultimately we decided - yes - it would be a good idea to stain the wood as an undercoat.
 
 {{< figure src="/themiette/images/20221222-04.png" caption="Test piece highlighting the overly orange putty" class="centerImage">}}
 
 {{< figure src="/themiette/images/20221222-01.png" caption="Staining the pieces to teak perfection" class="centerImage">}}
 
+
+From there we have been full steam ahead with the rest of our windows! Our big picture window frame has been completed as well as the internal window frames of all our opening windows. It shouldn't be too long before all of them have finished by the end of January... (being hopeful here).
 
 Our final December hurdle was a extremely scary glass fitting for our picture window. Measuring in at 1.2m x 1.5m and with a glass pane that is over 20kgs, we tentatively test fit our glass into the frame. Clearly our 2mm leeway must have been eaten up by a twist or a slight bend because the last glass fitting was _tight_. We will probably need to sand out the cavity in the new year.    
 
@@ -50,7 +55,7 @@ Lys doesn't want to jinks it but the weather has actually been really good these
 Not so much of a challenge but we're trying to enjoy life (and the good weather while we build). Congrats to Jo and Mandi :) 
 
 #### What's next?
-More windows and maybe some walls?
+More windows and maybe some walls? But also, have a safe and snazzy festive season and see you in 2023 ⭐
 
 Catch ya later,
 Lys & Erny
