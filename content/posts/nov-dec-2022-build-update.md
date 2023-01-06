@@ -14,7 +14,7 @@ Window making continues with a side of weddings, berry farms, and other sundry e
 #### What we've done
 So while writing this blog post, Lys discovers there's a frisbee emoji 🥏 also known as the flying disc emoji - how random! Tiny house wise though - our journey continues working on our windows. 
 
-In November we spent most of our weekends sanding the burn marks off the blackbutt panels to get them ready for piecing. Having spent over 50 hours sanding over the course of 2 months using the orbital sander has really lost its shine, in fact the activity is nothing short of mundane. To combat sanding fatigue Erny has developed a strategy where we pop headphones in underneath our ear protection to while the time away.  
+In November we spent most of our weekends sanding the burn marks off the blackbutt panels to get them ready for piecing. Having spent over 50 hours sanding over the course of 2 months using the orbital sander has really lost its shine, in fact the activity is nothing short of mundane. To combat sanding fatigue Erny has developed a strategy of listening to podcasts with earbuds under our earmuffs to while the time away.  
 
 Lys' brother helped out sanding down the huge picture window (big thanks!). November also saw us putting together the bathroom window (smallest) as a test run. This proved difficult as the pieces had bowed slightly and were not really sitting square. Erny decided that we needed to re-sand these pieces so they became more-square to give us the best hope of flush corners. This set us back a weekend as we worked overtime to re-sand the pieces. 
 
@@ -29,7 +29,7 @@ With that small win we continued with the loft and kitchen windows. These also p
 
 {{< youtube-enhanced id="O6HGgtJ3kWk" title="How to Install a Casement Sash - by The Woodworkers Company" >}}
 
-Lys also happened to purchase a second router earlier on in the year which came in handy. Having learnt our lesson from previously failures we had the foresight to run a prototype to test if our in-layed hinge strategy would work as we expected - and it did! We then routed the edges off our frames to inlay the hinges into our frames. Success!
+Lys also happened to purchase a secondhand router earlier on in the year which came in handy. Having learnt our lesson from previously failures we had the foresight to run a prototype to test if our in-layed hinge strategy would work as we expected - and it did! We then routed the edges off our frames to inlay the hinges into our frames. Success!
 
 {{< figure src="/themiette/images/20221222-gif-01.gif" caption="Prototype" class="centerImage">}}
 
@@ -37,7 +37,7 @@ Lys also happened to purchase a second router earlier on in the year which came 
 
 {{< figure src="/themiette/images/20221222-02.jpg" caption="The 2nd hand router doing its good work" class="centerImage">}}
 
-But it would not be a build update with another hiccup. We test drove the [Osmo - UV Protection Oil](https://www.osmoaustralia.com.au/) on some spare blackbutt. It is lovely and pulls the colour of the wood out so well. It does however make the putty quite orange, and so Lys decided we needed to stain the wood to blend the putty into the blackbutt. We settled on [Sikkens Cetol BLX-Pro Teak Timber Stain](https://www.crommelin.com.au/product/cetol-blx-pro/) which was the lightest stain that Bunnings offered. After trialing it out on our bathroom window, Lys was not convinced that it camouflaged the putty orange. Mildly distraught, Lys mulled over if we should continue down the staining path. Ultimately we decided - yes - it would be a good idea to stain the wood as an undercoat.
+But it would not be a build update with another hiccup. We test drove the [Osmo - UV Protection Oil](https://www.osmoaustralia.com.au/) on some spare blackbutt. It is lovely and pulls the colour of the wood out so well. It does however make the putty quite orange, and so Lys decided we needed to stain the wood to blend the putty into the blackbutt. We settled on [Sikkens Cetol BLX-Pro Teak Timber Stain](https://www.crommelin.com.au/product/cetol-blx-pro/) which was the lightest stain Bunnings offered that would hide the orange tone. After trialing it out on our bathroom window, Lys was not convinced that it camouflaged the putty orange. Mildly distraught, Lys mulled over if we should continue down the staining path. Ultimately we decided - yes - it would be a good idea to stain the wood as an undercoat.
 
 {{< figure src="/themiette/images/20221222-04.png" caption="Test piece highlighting the overly orange putty" class="centerImage">}}
 
