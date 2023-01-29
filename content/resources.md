@@ -25,9 +25,39 @@ draft: false
 - [Number 1 Roofing Supplies](https://www.no1roofing.com.au/narrabeen-nsw-no1-roofing-and-building-supplies/): We bought our Velux flashing kits from here but they actually do a whole bunch of hardware stuff too.
 - [Roofit Online](https://roofit.online/): We bought our roofing products (bar the steel sheets) here. Based in NSW.
 
+### Tools
+We tried to keep our tool set as light as possible.  Here is a list of all the tools we purchased:
+
+Hand Tools and other Non-electrified Items
+- Clamps of varying sizes (2nd-hand)
+- Jack stands x6 (1st-hand)
+- Levels of varying size and quality (1st-hand)
+- Metal rulers (1st-hand)
+- Protractor (never used)
+- Rope: kindly donated to us from builders who were worried that our hauls in the van would not be secure (2nd-hand)
+- Set square (1st-hand)
+- Tie down straps (2nd-hand)
+
+Power Tools
+- Bosch circular saw (1st Hand): Lys parents' which had never been opened since it was purchased 20 years ago
+- Makita 18v drill: from a fellow off gumtree
+- Makita 18v impact driver: from a fellow of gumtree
+- Makita orbital sanders: gifted from Erny's brother (many thanks)
+- Makita table saw (2nd-hand): from a fellow of gumtree
+- Router (2nd-hand): from a local facebook group
+
+We were fortunate enough to access our [local Tool Library](http://www.innerwesttoollibrary.com.au/). Think of a tool library like a library for books but instead of literature, movies and audio, you hire things! The Inner West Tool Library is an amazing place to borrow tools for the week and worked perfectly for us. At the tool library we rented:
+- Air compressor
+- Finishing nail gun
+Check out their wider inventory [here](https://innerwesttoollibrary.myturn.com/library/).
+
+
+We should also note that we literally borrowed all of Jason and Silvia's tools while they were in Europe (many thanks to them - we owe you slabs of beer). Horray for handy and cool friends! ❤️
+
+
 ### Windows
 - [Osmo UV Protection Oil](https://www.osmoaustralia.com.au/): Top of the line finishing oil for exterior and interior uses. We are using this on our windows.
-- - [Sikkens Cetol BLX-Pro Teak Timber Stain](https://www.crommelin.com.au/product/cetol-blx-pro/): The stain that we are using to protect and colour our windows.
+- [Sikkens Cetol BLX-Pro Teak Timber Stain](https://www.crommelin.com.au/product/cetol-blx-pro/): The stain that we are using to protect and colour our windows.
 
 
 *more coming soon!*
