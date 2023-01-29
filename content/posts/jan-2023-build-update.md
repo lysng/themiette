@@ -20,6 +20,12 @@ A big moment though was nailing the glass into the finished frames. Erny hired a
 
 Once Erny got the hang of it all we raced through attaching the beading and were (surprisingly) finished in no time. Nailing the beading in felt like this project is gaining a little bit of momentum, that it is actually doable, and that if we can build these we have a higher likelihood of tackling the rest of the house. 
 
+Back to the tool library - think of this as a place where people can share tools that they may only need on a once off (or very infrequent basis). Lys discovered this community a year ago when she was determining how we were going to source our tools. Having no need or space for an air compressor and nail gun on a daily basis, we thought it would be a great option to hire these larger tools out. Our local one is the [Inner West Tool Library](http://www.innerwesttoollibrary.com.au/) but you can also find others up and down the east coast. 
+
+{{< figure src="/themiette/images/20230129-03.jpg" caption="Inner West Tool Library" class="centerImage">}}
+
+{{< figure src="/themiette/images/20230129-gif-02.gif" caption="The library has pretty much everything that you need" class="centerImage">}}
+
 Another huge moment was getting the hinges attached to the outer frame. These hinges have been the most finicky and needed quite a bit of coaxing (and an extra re-routing on the top lip). With great care we screwed the them in and tadaaaaa - they look amazing! We now just need to attach the fixtures to ensure that the internal window can remain closed and locked and then these are ready to be installed into some walls. The stain does not look too bad too!  
 
 {{< figure src="/themiette/images/20230129-gif-01.gif" caption="Look at those hinges" class="centerImage">}}
