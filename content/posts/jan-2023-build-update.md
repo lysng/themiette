@@ -16,7 +16,7 @@ In December last year Lys' parents gently highlighted that they want their garag
 
 A big moment though was nailing the glass into the finished frames. Erny hired an air compressor and a brad nail gun from our local tool library (more on this later) and we spent a good hour practicing how to effectively piece a nail into blackbutt, which consistently reminded us that it is a heavy wood that is tough to pierce through. You get a small jump scare whenever the nail goes into the wood and it is incredibly loud. 
 
-{{< figure src="/themiette/images/20230129-02.jpg" caption="Racing against the rain and daylight to finish our picture window" class="centerImage">}}
+{{< figure src="/themiette/images/20230129-02.jpg" caption="Measuring the beading to fit the bathroom window" class="centerImage">}}
 
 Once Erny got the hang of it all we raced through attaching the beading and were (surprisingly) finished in no time. Nailing the beading in felt like this project is gaining a little bit of momentum, that it is actually doable, and that if we can build these we have a higher likelihood of tackling the rest of the house. 
 
