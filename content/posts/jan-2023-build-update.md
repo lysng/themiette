@@ -1,7 +1,7 @@
 ---
 title: "January Build Update"
-date: 2023-01-01T11:08:26+11:00
-draft: true
+date: 2023-02-01T11:08:26+11:00
+draft: false
 tags: ['build_update', 'windows']
 comments: true
 
@@ -26,7 +26,7 @@ Back to the tool library - think of this as a place where people can share tools
 
 {{< figure src="/themiette/images/20230129-gif-02.gif" caption="The library has pretty much everything that you need" class="centerImage">}}
 
-Another huge moment was screwing in the hinges to attach the inner and outer frame of our awning windows. These hinges have been the most finicky and needed quite a bit of coaxing. With the way the hinges open, the top edge of the inner window frame needs to be routed so that the edge doesn't catch on the inner frame. With great care we screwed the them in and tadaaaaa - they look amazing! We now just need to attach the latches to ensure that the internal window can remain snuggly closed and locked and then these are ready to be installed into some walls. The stain does not look too bad too! Finally having a full awning indow that we can open and close is unbelievably satisfying.
+Another huge moment was screwing in the hinges to attach the inner and outer frame of our awning windows. These hinges have been the most finicky and needed quite a bit of coaxing. With the way the hinges open, the top edge of the inner window frame needs to be routed so that the edge doesn't catch on the inner frame. With great care we screwed the them in and tadaaaaa - they look amazing! We now just need to attach the latches to ensure that the internal window can remain snuggle-y closed and locked and then these are ready to be installed into some walls. The stain does not look too bad too! Finally having a full awning indow that we can open and close is unbelievably satisfying - huge kudos to Erny and his unwavering attention to detail.
 
 {{< figure src="/themiette/images/20230129-gif-01.gif" caption="Look at those hinges" class="centerImage">}}
 
