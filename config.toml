@@ -90,7 +90,7 @@ disqusShortname = ""
 
 [[menu.main]]
 name = "About"
-weight = -10
+weight = -20
 identifier = "about"
 url = "/about/"
 
@@ -101,6 +101,12 @@ identifier = "Posts"
 url = "/posts/"
 
 [[menu.main]]
+name = "Watch"
+weight = -10
+identifier = "Watch"
+url = "/watch/"
+
+[[menu.main]]
 name = "Resources"
 weight = -10
 identifier = "Resources"
@@ -108,7 +114,7 @@ url = "/resources/"
 
 [[menu.main]]
 name = "Subscribe"
-weight = -10
+weight = 0
 identifier = "Subscribe"
 url = "https://tinyletter.com/themiette"
 
