@@ -2,7 +2,7 @@
 title: "July 2022 Build Update"
 date: 2022-08-08T20:15:04+10:00
 draft: false
-tags: ['build_update', 'tiny_house', 'rain']
+tags: ['build_update', 'tiny_house', 'rain', 'tiny_house']
 comments: true
 
 ---
