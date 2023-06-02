@@ -8,12 +8,16 @@ draft: false
 
 ### Inspiration
 #### Australia
+- [Two Hands and A Tiny House](https://twohandstinyhouse.com/): Builds really cool stuff and has a wonderful and informative youtube channel. Currently building a two trailer tiny house.
+
 
 #### International
 - [Shedsistence](https://shedsistence.com/): Very detailed blog and video on their tiny house build.
 
 ### Insulation
 - [A Southerly Change Trading](https://www.asoutherlychangetrading.com/): If we had scope we would totally use A Southerly Change Trading's Mountain made sheep wool hybrid insulation. 
+- [Fletcher Foam Cell Shed Liner](https://insulation.com.au/product/foam-cell-resi-liner/)
+- [Fletcher Vapastop 883 Tape](https://insulation.com.au/product/vapastop-883-tape/)
 
 ### Reclaimed Material Resellers
 - [Memates Recycled Warehouse](https://mematesrecycledwarehouse.com.au/): New to us specialising in reclaimed materials based in Sydney, NSW.
