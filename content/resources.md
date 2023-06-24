@@ -8,8 +8,12 @@ draft: false
 
 ### Inspiration
 #### Australia
-- [Two Hands and A Tiny House](https://twohandstinyhouse.com/): Builds really cool stuff and has a wonderful and informative youtube channel. Currently building a two trailer tiny house.
+- [Two Hands and A Tiny House](https://twohandstinyhouse.com/): Builds really cool stuff and has a wonderful and informative YouTube channel. Currently building a two trailer tiny house.
 
+
+#### Cladding
+- [Brass and Bronze Fasteners](https://www.babf.com.au/): Where we purchased our flathead screws.
+- [CUTEK® Extreme CD50](https://www.cutek.com.au/product/extreme-cd50/): The oil that we are using to make our reclaimed western red cedar sing.
 
 #### International
 - [Shedsistence](https://shedsistence.com/): Very detailed blog and video on their tiny house build.

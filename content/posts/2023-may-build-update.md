@@ -46,9 +46,13 @@ In a slight segue, Lys also took the opportunity to learn how to use the sled on
 
 However, the true test for our house wrap will come next week when rain is in the forecast. We're curious to see how the material holds up against wind and water. Two Hands and a Tiny House says it held up, but time will tell. As a precaution, Lys has been busy taping up the bottom of the trailer with [Fletcher Vapastop 883](https://insulation.com.au/product/vapastop-883-tape/), a reinforced foil tape known for its exceptional strength, flexibility, and conformability. The aluminium tape provides an added layer of protection against moisture and helps seal any potential gaps. Lys isn't 100% sure what the 883 stands for, but it's getting the job done.
 
+{{< figure src="/themiette/images/20230530/12.jpg" caption="Taping the edges to prevent water coming through" class="centerImage">}}
+
 {{< figure src="/themiette/images/20230530/06.png" caption="Erny working on the eave" class="centerImage">}}
 
 {{< figure src="/themiette/images/20230530/08.jpg" caption="The first section of the tiny house wrapped" class="centerImage">}}
+
+{{< figure src="/themiette/images/20230530/11.jpg" caption="The house wrapped at night" class="centerImage">}}
 
 
 #### What's next?
