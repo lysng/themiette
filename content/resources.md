@@ -45,6 +45,7 @@ Hand Tools and other Non-electrified Items
 - Rope: kindly donated to us from builders who were worried that our hauls in the van would not be secure (2nd-hand)
 - Set square (1st-hand)
 - Tie down straps (2nd-hand)
+- Pop rivet gun (1st-hand)
 
 Power Tools
 - Bosch circular saw (1st Hand): Lys parents' which had never been opened since it was purchased 20 years ago
@@ -57,6 +58,8 @@ Power Tools
 We were fortunate enough to access our [local Tool Library](http://www.innerwesttoollibrary.com.au/). Think of a tool library like a library for books but instead of literature, movies and audio, you hire things! The Inner West Tool Library is an amazing place to borrow tools for the week and worked perfectly for us. At the tool library we rented:
 - Air compressor
 - Finishing nail gun
+- staple gun
+
 Check out their wider inventory [here](https://innerwesttoollibrary.myturn.com/library/).
 
 
