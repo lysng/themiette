@@ -12,7 +12,7 @@ comments: true
 
 {{< toc >}}
 
-The past months have been a whirlwind of adventure, starting with a journey to the United States for a wedding - congratulations Visrut and Ruhani! We travelled from Australia to the U.S. and embarked on an adventure that took us from the vibrant streets of New Orleans all the way to the iconic city of New York. Along the way, we had the pleasure of exploring the stunning natural beauty of the Smoky Mountains National Park. Our hike along a small section of the Appalachian Trail was a definite highlight.  A huge shout-out to Kat, Erny's frisbee friend, for being our guide and teaching us about hemlock, spruce, and fir trees. 
+The past months have been a whirlwind of adventure, starting with a journey to the United States for a wedding - congratulations Visrut and Ruhani! We travelled from Australia to the U.S. and embarked on an adventure that took us from the vibrant streets of New Orleans all the way to the iconic city of New York. Along the way, we had the pleasure of exploring the stunning natural beauty of the Smoky Mountains National Park. Our hike along a small section of the Appalachian Trail was a definite highlight. A huge shout-out to Kat, Erny's frisbee friend, for being our guide and teaching us about hemlock, spruce, and fir trees. 
 
 We also stayed in a teeny tiny house in Asheville, NC. It was hand made and very much inspired by Jay Shafer, author of `The Small House Book`. We've stayed in a few tiny houses now and this one was filled with wood, wonderful books and was smaller than ours (sitting at a pretty 9.1 square meters)! You can find their listing on Airbnb [here](https://www.airbnb.com.au/rooms/8200122). 
 
