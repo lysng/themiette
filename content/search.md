@@ -5,3 +5,5 @@ outputs:
   - html
   - json
 ---
+
+{{< subscribe >}}

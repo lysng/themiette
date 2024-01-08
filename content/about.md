@@ -18,3 +18,5 @@ Just two eggs building a tiny house out of second hand and refurbished materials
 Follow our journey here :) 
 
 {{< figure src="/themiette/images/qr-code.png" caption="QR code" class="centerImage">}}
+
+{{< subscribe >}}

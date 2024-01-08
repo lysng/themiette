@@ -17,3 +17,6 @@ My name is Lys and my partner Erny and I are building a tiny home made out of se
 
 {{< figure src="/themiette/images/20220702.png" caption="Lys & Erny" >}}
 
+{{< subscribe >}}
+
+

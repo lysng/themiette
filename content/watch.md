@@ -8,3 +8,6 @@ Our little video library :book:
 
 {{< youtube-enhanced id="RCpMuoTUtoM" title="The Miette: How To Build A Window" >}}
 {{< youtube-enhanced id="VVAOdZhYov0" title="The Miette: Operation Solar" >}}
+
+{{< subscribe >}}
+
