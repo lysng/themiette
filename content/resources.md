@@ -53,6 +53,7 @@ Power Tools
 - Makita 18v impact driver: from a fellow of gumtree
 - Makita orbital sanders: gifted from Erny's brother (many thanks)
 - Makita table saw (2nd-hand): from a fellow of gumtree
+- Makita compound saw (2nd-hand): A $130 steal from Facebook marketplace
 - Router (2nd-hand): from a local facebook group
 
 We were fortunate enough to access our [local Tool Library](http://www.innerwesttoollibrary.com.au/). Think of a tool library like a library for books but instead of literature, movies and audio, you hire things! The Inner West Tool Library is an amazing place to borrow tools for the week and worked perfectly for us. At the tool library we rented:
