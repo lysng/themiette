@@ -114,7 +114,7 @@ url = "/resources/"
 name = "Subscribe"
 weight = 0
 identifier = "Subscribe"
-url = "https://dashboard.mailerlite.com/forms/760646/109778090094232629/share"
+url = "https://buttondown.email/themiette"
 
 [blackfriday]
 hrefTargetBlank = true
