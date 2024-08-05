@@ -1,7 +1,7 @@
 ---
 title: "June July Build Update"
 date: 2024-08-05T18:20:37+10:00
-draft: true
+draft: false
 tags: ['electrical', 'insulation', 'kitchen', 'plywood', 'build_update', 'youtube']
 comments: true
 
