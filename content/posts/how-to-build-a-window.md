@@ -2,7 +2,7 @@
 title: "How To Build a Window"
 date: 2023-03-02T11:08:26+11:00
 draft: false 
-tags: ['windows', 'video', 'canberra', 'tiny_house']
+tags: ['windows', 'video', 'canberra', 'tiny_house', 'youtube']
 comments: true
 
 ---

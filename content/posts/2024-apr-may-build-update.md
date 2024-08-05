@@ -2,7 +2,7 @@
 title: "April and May Build Update"
 date: 2024-07-27T13:04:21+10:00
 draft: false
-tags: ['build_update', 'wall', 'bathroom','tiny_house', 'singapore', 'holiday','inside']
+tags: ['build_update', 'wall', 'bathroom','tiny_house', 'singapore', 'holiday','inside', 'youtube']
 comments: true
 
 ---

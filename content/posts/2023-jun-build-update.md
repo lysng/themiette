@@ -2,7 +2,7 @@
 title: "June Build Update"
 date: 2023-06-22T11:08:26+11:00
 draft: false
-tags: ['build_update', 'cladding', 'sanding', 'shopping','tiny_house']
+tags: ['build_update', 'cladding', 'sanding', 'shopping','tiny_house', 'youtube']
 comments: true
 
 ---

@@ -2,7 +2,7 @@
 title: "April Build Update"
 date: 2023-04-12T11:08:26+11:00
 draft: false
-tags: ['build_update', 'frame', 'door', 'roof', 'subfloor','tiny_house']
+tags: ['build_update', 'frame', 'door', 'roof', 'subfloor','tiny_house', 'youtube']
 comments: true
 
 ---

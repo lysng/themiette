@@ -2,7 +2,7 @@
 title: "Oct Build Update"
 date: 2022-11-10T11:08:26+11:00
 draft: false
-tags: ['solar', 'build_update', 'video', 'windows', 'tiny_house']
+tags: ['solar', 'build_update', 'video', 'windows', 'tiny_house', 'youtube']
 comments: true
 
 ---

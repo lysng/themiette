@@ -2,7 +2,7 @@
 title: "Jan Build Update"
 date: 2024-02-06T11:08:26+11:00
 draft: false
-tags: ['build_update', 'frame', 'door', 'cedar', 'cladding','tiny_house', 'makita']
+tags: ['build_update', 'frame', 'door', 'cedar', 'cladding','tiny_house', 'makita', 'youtube']
 comments: true
 
 ---
