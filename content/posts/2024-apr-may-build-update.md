@@ -16,7 +16,7 @@ My goodness hasn’t it been a time — feels like we haven’t written a post i
 
 April marked a significant milestone as we built our first (and only) internal wall. We’ve been using the wood that we salvaged from the shed and most recently, our stocks of usable wood are dwindling. Erny however, Erny has truly embraced his inner #dadoftheinternet, finding scrap pieces that fit perfectly. He really embodies this meme.
 
-{{< tiktok id="7319666815725112622" usr="@the.mcfarlands" music="Baba-O'Riley-6928323554689681409">}}
+{{< youtube-enhanced id="7Fw7bZoPyVU" title="The Miette: Wall Raising" >}}
 
 Jokes aside, the wall came together effortlessly, (almost too easily), allowing us to delineate spaces within the tiny house. With a new wall up, the space seems definitely smaller. The speed of its construction took us by surprise, with the wall going up in just a day. With this new-found momentum, we decided to start on our loft as well.
 
