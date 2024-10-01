@@ -147,6 +147,15 @@ Catch ya later, Lys &amp;amp; Erny</description>
     </item>
     
     <item>
+      <title>Video Library</title>
+      <link>https://lysng.github.io/themiette/watch/</link>
+      <pubDate>Wed, 01 Mar 2023 21:20:59 +1000</pubDate>
+      
+      <guid>https://lysng.github.io/themiette/watch/</guid>
+      <description>Our little video library 📖</description>
+    </item>
+    
+    <item>
       <title>January Build Update</title>
       <link>https://lysng.github.io/themiette/posts/jan-2023-build-update/</link>
       <pubDate>Wed, 01 Feb 2023 11:08:26 +1100</pubDate>
@@ -267,15 +276,6 @@ Table Of ContentsWhy build a tiny house? Do you have any constraints? What does
       
       <guid>https://lysng.github.io/themiette/search/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Video Library</title>
-      <link>https://lysng.github.io/themiette/watch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://lysng.github.io/themiette/watch/</guid>
-      <description>Our little video library 📖</description>
     </item>
     
   </channel>
