@@ -18,8 +18,6 @@ Before making the storage loft we had the bright idea to put a vapour barrier in
 
 For the storage loft to end all storage lofts, we used the last of our good Douglas fir and the remnants of our blackbutt floorboards. It felt bittersweet in a way, using the final pieces of wood that have been such a big part of the build. Even though we’re running low on high-quality wood, Erny is always very proud that we aren’t letting any of it go to waste. Compared to the sleeping loft and the floorboards, the storage loft was installed very quickly — in just a day. It has already proved itself to be a very practical area as well — now we store our extra insulation and lightweight material off the ground and having these bulky items out of the way has allowed us to bring more items in…😅Jokes aside, the new loft is helping us keep the main living area clear for the remaining construction work.
 
-{{< figure src="/themiette/images/20241001/20240720_192132.jpg" caption="Pre-storage loft" class="centerImage">}}
-
 {{< figure src="/themiette/images/20241001/20240824_155853.jpg" caption="Setting up the frame" class="centerImage">}}
 
 {{< figure src="/themiette/images/20241001/20240928_090008.jpg" caption="Storage loft working overtime now!" class="centerImage">}}
@@ -47,8 +45,6 @@ Even disregarding the practical challenges, we are starting to make cosmetic com
 {{< figure src="/themiette/images/20241001/kevin mcloud.gif" caption="Kevin McCloud being all round disappointed about being over budget and out of time" class="centerImage">}}
 
 As September progressed, we found ourselves in the ever familiar battle with the weather. It seems to be heating up quite a bit and on days like these we politely call the tiny house the `Hot Box`. On the bright side, the skylights have been a lifesaver. Not only do they let in a ton of natural light, but they’ve also provided much-needed airflow on the days when the weather does cooperate. The space heats up quickly, so having those skylights open makes a world of difference. One final thing that we promise to do but never do is more filming and writing! Honestly, it’s hard to keep track of documenting the process when we are so focused on just getting things done. We know it’s good to reflect, but actually doing the work brings us closer to completion, so it’s a fine balance.
-
-{{< figure src="/themiette/images/20241001/20240803_133004.jpg" caption="A crazy duo hard at work" class="centerImage">}}
 
 Looking ahead, we’re racing against the clock (see our Grand Designs crisis from above). We’ve crunched the numbers and, if everything goes according to plan, we’ve got about 30 full working days left to bring this tiny house to fruition by the end of the year. It’s a daunting task, but not impossible. There’s still the matter of engaging a plumber, which has been hanging over our heads for a while now. It’s one of those things we keep pushing back, but we know we need to get it sorted soon. For now, though, we’re celebrating the small wins. We’ve finished insulating the walls and ceiling, the wiring is in place, and the house is starting to feel more like a home with every passing day. With any luck — and a bit of persistence — we’ll cross the finish line by December (and that’s what we say every year).
 
