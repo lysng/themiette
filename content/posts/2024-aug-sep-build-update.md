@@ -1,5 +1,5 @@
 ---
-title: "2024 Aug Sep Build Update"
+title: "August September Build Update"
 date: 2024-10-01T14:56:06+10:00
 draft: false
 tags: ['insulation', 'storage', 'loft', 'cladding', 'grand_designs', 'build_update']
@@ -12,7 +12,7 @@ Hello with another build update. Here we meet and say farewell to August and Sep
 {{< toc >}}
 
 #### The Storage Loft
-Before making the storage loft we had the bright idea to put a vapour barrier inbetween our internal cladding and our insulation. The idea here is to protect the insulation from getting wet as much as possible and controlling vapour moving through the walls. We decided to use some Ametalin 1500mm x 30m SilverSark as it's affordable. It was weird covering up all the insulation and all of the electical. The whole house now looks the insides of a blue whale 🐋. 
+Before making the storage loft we had the bright idea to put a vapour barrier in between our internal cladding and our insulation. The idea here is to protect the insulation from getting wet as much as possible and controlling vapour moving through the walls. We decided to use some Ametalin 1500mm x 30m SilverSark as it's affordable. It was weird covering up all the insulation and all of the electrical. The whole house now looks the insides of a blue whale 🐋. 
 
 {{< figure src="/themiette/images/20241001/20240804_175537.jpg" caption="The insides of a blue whale" class="centerImage">}}
 
@@ -51,5 +51,4 @@ Looking ahead, we’re racing against the clock (see our Grand Designs crisis fr
 {{< figure src="/themiette/images/20241001/IMG_5099.jpg" caption="Internal walls coming up a treat" class="centerImage">}}
 
 Catch ya later,
-Lys & Erny
-
+Lys & Erny 
