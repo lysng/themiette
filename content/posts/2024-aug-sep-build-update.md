@@ -1,5 +1,5 @@
 ---
-title: "August September Build Update"
+title: "August and September Build Update"
 date: 2024-10-01T14:56:06+10:00
 draft: false
 tags: ['insulation', 'storage', 'loft', 'cladding', 'grand_designs', 'build_update']
