@@ -44,8 +44,7 @@ As November rolled into December, we hit a stride with two uninterrupted weeks o
 
 The bathroom became our focus for the latter part of our holiday. Erny installed the ceiling using 7 mm plywood — a tricky job not just because of the angles, but because we had to wrestle the plywood through the tiny bathroom door. Luckily, there was a bit of flex in the plywood, and so we angled the side in before twisting the piece through. Working in such tight quarters was a test of agility, and we were grateful for our slim builds as we squeezed into corners to hold the pieces in place. Progress on the shower walls followed, and we are planning on using a combination tile backing board and plywood in the shower stall for a combination of strength and lightness. The work was gruelling with shoulder strains and knee pain on both bodies but seeing the bathroom take shape has been a highlight.
 
-IMG_5326
-{{< figure src="/themiette/images/20250107/.jpg" caption="Bathroom plumbing" class="centerImage">}}
+{{< figure src="/themiette/images/20250107/IMG_5326.jpg" caption="Bathroom plumbing" class="centerImage">}}
 
 {{< figure src="/themiette/images/20250107/20250105_164638.jpg" caption="Getting set to waterproof the bathroom" class="centerImage">}}
 
