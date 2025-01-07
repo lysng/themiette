@@ -1,7 +1,7 @@
 ---
 title: "October, November and December Build Update"
 date: 2025-01-07T17:33:10+11:00
-draft: true
+draft: false
 tags: ['plumbing', 'plywood', 'ceiling', 'plywood', 'build_update', 'tools', 'bathroom']
 
 comments: true
