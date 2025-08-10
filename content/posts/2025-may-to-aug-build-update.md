@@ -1,7 +1,7 @@
 ---
 title: "2025 May to August Build Update"
 date: 2025-08-10T18:56:57+10:00
-draft: true
+draft: false
 tags: ['youtube','bathroom','plywood', 'kitchen', 'holiday', 'build_update', 'floors', 'oiling', 'tiny_house', 'tiling', 'hiking', 'electricity']
 comments: true
 
