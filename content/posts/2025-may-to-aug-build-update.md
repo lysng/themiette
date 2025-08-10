@@ -40,7 +40,7 @@ Other than electricity, we’ve been working hard to define the minimum viable h
 #### Finishing the Ceiling, Walls and Floor
 We’ve chosen to use [Whittle Waxes Hardwax Oil Classic](https://www.whittlewaxes.com.au/collections/hardwax-oils/products/evolution-hardwax-oil-classic) for our interior finish. The decision came down to a few key things: it’s low in VOCs (so less toxic and better for enclosed spaces), very forgiving to apply (ideal for DIYers like us), and keeps the natural look and feel of the wood while adding a soft sheen. We also like that it doesn’t require much equipment, and you can work in stages without worrying about patchiness. If you’re curious, [this video](https://www.youtube.com/watch?v=9xSJpkU-hsg) does an excellent deep dive into how it works. Nick from the Workshop Companion always provides such detailed analysis. 
 
-{{< youtube-enhanced id="v=9xSJpkU-hsg" title="Hardwax Finishes Overexplained">}}
+{{< youtube-enhanced id="9xSJpkU-hsg" title="Hardwax Finishes Overexplained">}}
 
 We tackled the ceiling first — which, note to future builders, is a workout, and not the sort of work out that you want. Oiling above your head even with a roller, while balancing on a ladder in a kind of frog-like squat, and then buffing away the excess is not for the faint of heart. Having said this, the job went faster than we expected, and the result is delightful. The finish is warm and water resistant and highlights the character of the wood that we've worked so hard to highlight.
 
