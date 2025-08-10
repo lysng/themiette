@@ -1,10 +1,9 @@
 ---
-title: "2025 May to August Build Update"
-date: 2025-08-10T18:56:57+10:00
+title: "2025 May to Aug Build Update"
+date: 2025-08-10T15:15:56+10:00
 draft: false
 tags: ['youtube','bathroom','plywood', 'kitchen', 'holiday', 'build_update', 'floors', 'oiling', 'tiny_house', 'tiling', 'hiking', 'electricity']
 comments: true
-
 ---
 News flash: our house is now an appliance!
 
@@ -70,3 +69,4 @@ The feeling this month is: we're on the home straight. The final 20%. The longes
 
 Catch ya later,
 Lys & Erny
+
