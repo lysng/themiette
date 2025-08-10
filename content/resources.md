@@ -11,9 +11,17 @@ draft: false
 - [Two Hands and A Tiny House](https://twohandstinyhouse.com/): Builds really cool stuff and has a wonderful and informative YouTube channel. Currently building a two trailer tiny house.
 
 
+#### Bathroom
+- [WallPanels.com Pro Grey Limestone Wall Panel](https://wallpanels.com.au/products/pro-grey-limestone-wall-panel): Finicky but less grout on install. Less DIY friendly than we thought but we received a $25 Bunnings voucher as a sweetener. 
+
 #### Cladding
 - [Brass and Bronze Fasteners](https://www.babf.com.au/): Where we purchased our flathead screws.
 - [CUTEK® Extreme CD50](https://www.cutek.com.au/product/extreme-cd50/): The oil that we are using to make our reclaimed western red cedar sing.
+
+#### Flooring
+- [Whittle Wax Evolution Hardwax Oil](https://www.whittlewaxes.com.au/collections/hardwax-oils/products/evolution-hardwax-oil-classic): Our flooring oil that we were especially happy with the finish.
+
+
 
 #### International
 - [Shedsistence](https://shedsistence.com/): Very detailed blog and video on their tiny house build.
