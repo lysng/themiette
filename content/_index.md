@@ -7,7 +7,6 @@ weight: -270
 outputs:
 - html
 - rss
-- json
 ---
 
 ### Hello World :wave:

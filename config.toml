@@ -141,5 +141,11 @@ href = "pathToFileUnderStatic"
     endLevel = 6
     ordered = false
 
-[imaging]
+[imaging.jpeg]
+  quality = 60
+
+[imaging.webp]
+  quality = 60
+
+[imaging.avif]
   quality = 60
