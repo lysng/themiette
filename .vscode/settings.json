@@ -26,5 +26,6 @@
         "Vapastop",
         "Velux",
         "Visrut"
-    ]
+    ],
+    "snyk.advanced.autoSelectOrganization": true
 }

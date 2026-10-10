@@ -18,6 +18,9 @@ enableEmoji = true
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
 
+[params]
+googleSiteVerification = "google1ad3d4376e1f38dd.html"
+
 [params.info]
 description = ""
 title404 = "Nothing's here!"
