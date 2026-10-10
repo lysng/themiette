@@ -1,7 +1,7 @@
 [about]
 title = "The Miette"
 description = "A blog about a tiny adventure..."
-logo = "/images/logo.png"
+logo = "images/logo.png"
 
 [breadcrumbs]
 separator = "/"
