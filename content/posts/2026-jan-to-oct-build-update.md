@@ -6,7 +6,7 @@ tags: ['build_update', 'tiny_house', 'living', 'storage', 'kitchen', 'appliances
 comments: true
 ---
 
-After years of building, many Bunnings trips and an unreasonable amount of sanding, we finally moved into the Miette in February. It is now October. So, what have we been doing for the last eight months?
+Huzzah the last(?) post! After years of building, many Bunnings trips and an unreasonable amount of sanding, we finally moved into the Miette in February. It is now October. So, what have we been doing for the last eight months?
 
 Well, apparently the building never really stops.
 
